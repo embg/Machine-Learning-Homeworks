@@ -1,0 +1,8 @@
+       smsAdult1
+smsAge1   No  Yes
+    No  3598    2
+    Yes    5    0
+       smsAdult0
+smsAge0  No Yes
+    No  549   3
+    Yes  12   0
