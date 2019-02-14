@@ -1,3 +1,6 @@
 jupyter
 scikit-learn
 pandas
+matplotlib
+scipy
+numpy
